@@ -1,0 +1,25 @@
+body {
+
+}
+
+.intro {
+
+	height:300px;
+	width:300px;
+	margin: auto;
+	text-align:center;
+}
+
+.quiz {
+	height:300px;
+	width:300px;
+	margin:auto;
+	display:none;
+}
+
+.feedback {
+	height:300px;
+	width:300px;
+	margin:auto;
+	display:none;
+}
